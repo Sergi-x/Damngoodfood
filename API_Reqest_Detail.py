@@ -3,7 +3,7 @@ import time
 import csv
 from geopy.distance import geodesic
 
-api_key = "AIzaSyCj3pyZjWziZUdriwNg78znHb2QkN7sMHc"  # Replace with your actual API key
+api_key = "------------"  # Replace with your actual API key
 address = "Germaniastraße 17 Munich Germany"
 
 def get_location(api_key, address):
